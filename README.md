@@ -13,18 +13,6 @@ Automated Reporting: Automatically generates detailed reports, highlighting vuln
 Installation
 To get started with Bogex, follow these steps:
 
-Prerequisites:
-Python 3.7+
-Pip (Python package installer)
-Installation Steps:
-Clone the repository:
-
-```
-git clone https://github.com/ZeroXJacks/bogex
-```
-Python 3.7+
-Installation Steps:
-Clone the repository:
 ```
 git clone https://github.com/ZeroXJacks/bogex
 ```
